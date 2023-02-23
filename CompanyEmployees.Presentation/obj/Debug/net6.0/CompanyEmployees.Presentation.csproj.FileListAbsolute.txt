@@ -1,0 +1,17 @@
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/bin/Debug/net6.0/CompanyEmployees.Presentation.deps.json
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/bin/Debug/net6.0/CompanyEmployees.Presentation.dll
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/bin/Debug/net6.0/ref/CompanyEmployees.Presentation.dll
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/bin/Debug/net6.0/CompanyEmployees.Presentation.pdb
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/bin/Debug/net6.0/Service.Contracts.dll
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/bin/Debug/net6.0/Shared.dll
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/bin/Debug/net6.0/Service.Contracts.pdb
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/bin/Debug/net6.0/Shared.pdb
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/obj/Debug/net6.0/CompanyEmployees.Presentation.csproj.AssemblyReference.cache
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/obj/Debug/net6.0/CompanyEmployees.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/obj/Debug/net6.0/CompanyEmployees.Presentation.AssemblyInfoInputs.cache
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/obj/Debug/net6.0/CompanyEmployees.Presentation.AssemblyInfo.cs
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/obj/Debug/net6.0/CompanyEmployees.Presentation.csproj.CoreCompileInputs.cache
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/obj/Debug/net6.0/CompanyEmployees.Presentation.csproj.CopyComplete
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/obj/Debug/net6.0/CompanyEmployees.Presentation.dll
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/obj/Debug/net6.0/ref/CompanyEmployees.Presentation.dll
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/obj/Debug/net6.0/CompanyEmployees.Presentation.pdb

@@ -1,0 +1,12 @@
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Shared/bin/Debug/net6.0/Shared.deps.json
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Shared/bin/Debug/net6.0/Shared.dll
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Shared/bin/Debug/net6.0/ref/Shared.dll
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Shared/bin/Debug/net6.0/Shared.pdb
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Shared/obj/Debug/net6.0/Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Shared/obj/Debug/net6.0/Shared.AssemblyInfoInputs.cache
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Shared/obj/Debug/net6.0/Shared.AssemblyInfo.cs
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Shared/obj/Debug/net6.0/Shared.csproj.CoreCompileInputs.cache
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Shared/obj/Debug/net6.0/Shared.dll
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Shared/obj/Debug/net6.0/ref/Shared.dll
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Shared/obj/Debug/net6.0/Shared.pdb
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Shared/obj/Debug/net6.0/Shared.csproj.AssemblyReference.cache

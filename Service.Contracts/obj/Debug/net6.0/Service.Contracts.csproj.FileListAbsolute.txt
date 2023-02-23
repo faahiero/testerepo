@@ -1,0 +1,15 @@
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/bin/Debug/net6.0/Service.Contracts.deps.json
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/bin/Debug/net6.0/Service.Contracts.dll
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/bin/Debug/net6.0/ref/Service.Contracts.dll
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/bin/Debug/net6.0/Service.Contracts.pdb
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/bin/Debug/net6.0/Shared.dll
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/bin/Debug/net6.0/Shared.pdb
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/obj/Debug/net6.0/Service.Contracts.csproj.AssemblyReference.cache
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/obj/Debug/net6.0/Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/obj/Debug/net6.0/Service.Contracts.AssemblyInfoInputs.cache
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/obj/Debug/net6.0/Service.Contracts.AssemblyInfo.cs
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/obj/Debug/net6.0/Service.Contracts.csproj.CoreCompileInputs.cache
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/obj/Debug/net6.0/Service.Contracts.csproj.CopyComplete
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/obj/Debug/net6.0/Service.Contracts.dll
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/obj/Debug/net6.0/ref/Service.Contracts.dll
+/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/obj/Debug/net6.0/Service.Contracts.pdb

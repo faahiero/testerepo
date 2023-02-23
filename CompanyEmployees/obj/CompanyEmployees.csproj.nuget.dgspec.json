@@ -1,0 +1,566 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees/CompanyEmployees.csproj": {}
+  },
+  "projects": {
+    "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/CompanyEmployees.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/CompanyEmployees.Presentation.csproj",
+        "projectName": "CompanyEmployees.Presentation",
+        "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/CompanyEmployees.Presentation.csproj",
+        "packagesPath": "/home/faahiero/.nuget/packages/",
+        "outputPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/faahiero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/Service.Contracts.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/Service.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees/CompanyEmployees.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees/CompanyEmployees.csproj",
+        "projectName": "CompanyEmployees",
+        "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees/CompanyEmployees.csproj",
+        "packagesPath": "/home/faahiero/.nuget/packages/",
+        "outputPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/faahiero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/CompanyEmployees.Presentation.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/CompanyEmployees.Presentation/CompanyEmployees.Presentation.csproj"
+              },
+              "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/LoggerService/LoggerService.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/LoggerService/LoggerService.csproj"
+              },
+              "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Repository/Repository.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Repository/Repository.csproj"
+              },
+              "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service/Service.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service/Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Contracts/Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Contracts/Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Contracts/Contracts.csproj",
+        "packagesPath": "/home/faahiero/.nuget/packages/",
+        "outputPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/faahiero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Entities/Entities.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Entities/Entities.csproj",
+        "packagesPath": "/home/faahiero/.nuget/packages/",
+        "outputPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/faahiero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/LoggerService/LoggerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/LoggerService/LoggerService.csproj",
+        "projectName": "LoggerService",
+        "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/LoggerService/LoggerService.csproj",
+        "packagesPath": "/home/faahiero/.nuget/packages/",
+        "outputPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/LoggerService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/faahiero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Contracts/Contracts.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Contracts/Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Repository/Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Repository/Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Repository/Repository.csproj",
+        "packagesPath": "/home/faahiero/.nuget/packages/",
+        "outputPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/faahiero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Contracts/Contracts.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Contracts/Contracts.csproj"
+              },
+              "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Entities/Entities.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/Service.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/Service.Contracts.csproj",
+        "projectName": "Service.Contracts",
+        "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/Service.Contracts.csproj",
+        "packagesPath": "/home/faahiero/.nuget/packages/",
+        "outputPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/faahiero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Shared/Shared.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Shared/Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service/Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service/Service.csproj",
+        "projectName": "Service",
+        "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service/Service.csproj",
+        "packagesPath": "/home/faahiero/.nuget/packages/",
+        "outputPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/faahiero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Contracts/Contracts.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Contracts/Contracts.csproj"
+              },
+              "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/Service.Contracts.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Service.Contracts/Service.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Shared/Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Shared/Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Shared/Shared.csproj",
+        "packagesPath": "/home/faahiero/.nuget/packages/",
+        "outputPath": "/home/faahiero/Documentos/Workspace/dotnet/CompanyEmployees/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/faahiero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
