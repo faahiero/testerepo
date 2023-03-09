@@ -36,6 +36,6 @@ public class CompanyRepository : RepositoryBase<Company>, ICompanyRepository
 
     public void DeleteCompany(Company company)
     {
-        DeleteCompany(company);
+        Delete(company);
     }
 }

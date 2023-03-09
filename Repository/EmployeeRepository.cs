@@ -28,8 +28,5 @@ public class EmployeeRepository : RepositoryBase<Employee>, IEmployeeRepository
         Create(employee);
     }
 
-    public void DeleteEmployee(Employee employee)
-    {
-        Delete(employee);
-    }
+    public void DeleteEmployee(Employee employee) => Delete(employee);
 }

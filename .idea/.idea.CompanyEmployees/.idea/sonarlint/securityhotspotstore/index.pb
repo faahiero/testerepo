@@ -1,0 +1,37 @@
+
+r
+BCompanyEmployees/Migrations/20230218233810_InitialData.Designer.cs,c/e/cef47d0fb78766eff74e6c264110dbcc319c6a6d
+O
+Contracts/ICompanyRepository.cs,1/4/140e9efd4f5a6744a01ef3c056b5b162935bdc8c
+T
+$Service.Contracts/ICompanyService.cs,b/d/bda391d80491f71f7bc85138c3174d1ebcd0bdba
+I
+Service/CompanyService.cs,f/c/fc66166c72f34b0da1ad1a007550df726573b42b
+p
+@CompanyEmployees.Presentation/Controllers/CompaniesController.cs,2/e/2e21ae8be4f090cbc335bd14421d1da0599693d6
+O
+Repository/RepositoryContext.cs,e/8/e818fa0e7c3d6c20ba590362ac63157ffcbddf82
+O
+Repository/CompanyRepository.cs,9/f/9feb9234917add88af3c14b6a8f8d9dcf639cb12
+P
+ Repository/EmployeeRepository.cs,3/e/3ebbca132a733af86ce651eeb41db00882cf9f02
+n
+>CompanyEmployees.Presentation/ModelBinders/ArrayModelBinder.cs,a/c/ac48cd26d04214197c83274c53995fdd39ee87e4
+X
+(Shared/DataTransferObjects/CompanyDto.cs,a/4/a4dfa14e7061b86a10675b897d43749b300c81ed
+b
+2Shared/DataTransferObjects/EmployeeForUpdateDto.cs,f/c/fcc07a32806e22dcf5499e7ff721cc0e26110dda
+d
+4Shared/DataTransferObjects/EmployeeForCreationDto.cs,5/9/595e1492000100b78d8b613e1584c3159a3fd1ed
+`
+0Repository/Configuration/CompanyConfiguration.cs,5/2/523090f9a58fd370d7f42f7df0195b8e96542601
+R
+"CompanyEmployees/MappingProfile.cs,0/b/0bbdc707a2ddbcf42ce2ab1f9200a0e607598a32
+P
+ Contracts/IEmployeeRepository.cs,b/3/b3614bb65df4f5f54e3adc30517552f5ffd4140c
+U
+%Service.Contracts/IEmployeeService.cs,7/3/7383d47080176512a4b041dd4cc94e0f42386ff2
+J
+Service/EmployeeService.cs,7/a/7a5ec3066ee22c8428631ec6a3786a400bf9c36d
+p
+@CompanyEmployees.Presentation/Controllers/EmployeesController.cs,f/6/f691be82bf8fc8e83504bdf2ff48c9881bfb335d
